@@ -21,7 +21,7 @@ def is_unique_pythonic(str):
     else:
         return False
 
-
+# Testing
 s1 = "unique"
 s2 = "bear"
 
